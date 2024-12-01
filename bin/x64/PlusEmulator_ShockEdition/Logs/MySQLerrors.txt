@@ -1,0 +1,1072 @@
+
+Error in query: 
+INSERT INTO bots (user_id,name, ai_type) VALUES (36,@0name, 'pet')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Field 'look' doesn't have a default value
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO bots (user_id,name, ai_type) VALUES (36,@0name, 'pet')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Field 'look' doesn't have a default value
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO bots_petdata (id,type,race,color,experience,energy,createstamp) VALUES (0, 1,@0race,@0color,0,100,UNIX_TIMESTAMP())
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '0' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO bots (user_id,name, ai_type) VALUES (36,@0name, 'pet')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Field 'look' doesn't have a default value
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO bots_petdata (id,type,race,color,experience,energy,createstamp) VALUES (0, 1,@0race,@0color,0,100,UNIX_TIMESTAMP())
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '0' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `room_items_moodlight` (`id`, `enabled`, `current_preset`, `preset_one`, `preset_two`, `preset_three`) VALUES (@id, '0', 1, @preset, @preset, @preset);
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '916741' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `rooms` SET `users_now` = '2' WHERE `id` = '2' LIMIT 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `chatlogs` (user_id, room_id, message, timestamp) VALUES (@user, @room, @message, @time)
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `chatlogs` (user_id, room_id, message, timestamp) VALUES (@user, @room, @message, @time)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+SELECT username FROM users WHERE id = @id LIMIT 1
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.getString() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 97
+
+
+Error in query: 
+UPDATE server_status SET users_online = @users, loaded_rooms = @loadedRooms, userpeak = @upeak LIMIT 1;
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO chatlogs (`user_id`, `room_id`, `timestamp`, `message`) VALUES (@uid, @rid, @time, @msg)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `play_products_owned` SET `extradata` = '0' WHERE `play_products_owned`.`product_id` = '9' AND `play_products_owned`.`user_id` = 9228;
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE server_status SET users_online = @users, loaded_rooms = @loadedRooms, userpeak = @upeak LIMIT 1;
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE server_status SET users_online = @users, loaded_rooms = @loadedRooms, userpeak = @upeak LIMIT 1;
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE play_stats SET     
+                                        level = @level,
+                                        curxp = @exp,                                         
+                                        curhealth = @curhealth,
+                                        maxhealth = @maxhealth,
+                                        armor = @armor,
+                                        hunger = @hunger,
+                                        hygiene = @hygiene,
+                                        strength = @strength,
+                                        strength_exp = @strength_exp,
+                                        bank = @bank,
+                                        last_coordinates = @last_coordinates,
+                                        is_dying = @is_dying,
+                                        dying_time_left = @dying_time_left,
+                                        is_dead = @is_dead,
+                                        dead_time_left = @dead_time_left,
+                                        is_jailed = @is_jailed,
+                                        jailed_time_left = @jailed_time_left,
+                                        is_wanted = @is_wanted,
+                                        wanted_level = @wanted_level,
+                                        wanted_time_left = @wanted_time_left,
+                                        is_cuffed = @is_cuffed,
+                                        cuffed_time_left = @cuffed_time_left,    
+                                        is_noob = @is_noob,
+                                        noob_time_left = @noob_time_left,
+                                        car_limit = @car_limit,
+                                        time_worked = @time_worked,
+                                        arrests = @arrests,
+                                        arrested = @arrested,
+                                        CamLvl = @CamLvl,
+                                        CamXP = @CamXP,
+                                        MecLvl = @MecLvl,
+                                        MecXP = @MecXP,
+                                        MinerLvl = @MinerLvl,
+                                        MinerXP = @MinerXP,
+                                        ArmLvl = @ArmLvl,
+                                        ArmXP = @ArmXP,
+                                        BasuLvl = @BasuLvl,
+                                        BasuXP = @BasuXP,
+                                        LadronLvl = @LadronLvl,
+                                        LadronXP = @LadronXP,
+                                        Corp = @Corp,
+                                        Gang = @Gang,
+                                        chn_disabled = @ChNDisabled,
+                                        chn_banned = @ChNBanned,
+                                        chn_banned_time_left = @ChNBannedTimeLeft,
+                                        send_home_time = @send_home_time,
+                                        punches = @punches,
+                                        kills = @kills,
+                                        hitkills = @hitkills,
+                                        gunkills = @gunkills,
+                                        copkills = @copkills,
+                                        deaths = @deaths,
+                                        copdeaths = @copdeaths,
+                                        evasions = @evasions,
+                                        cocaine_taken = @cocaine_taken,
+                                        medicines_taken = @medicines_taken,
+                                        weed_taken = @weed_taken,
+                                        guns_fab = @guns_fab,
+                                        total_shifts = @total_shifts,
+                                        money_earned = @money_earned,
+                                        pl_earned = @pl_earned,
+                                        drugs_taken = @drugs_taken,
+                                        tutorial_step = @tutorial_step,
+                                        is_sanc = @is_sanc,
+                                        sanc_time_left = @sanc_time_left,
+                                        sancs = @sancs,
+                                        passive_mode = @passive_mode,
+                                        changename_count = @changename_count,
+                                        is_news_reporter = @is_news_reporter
+                            
+                                        WHERE id = @userid;
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MySql.Data.MySqlClient.NativeDriver.ExecutePacket(MySqlPacket packetToExecute)
+   at MySql.Data.MySqlClient.NativeDriver.SendQuery(MySqlPacket queryPacket)
+   at MySql.Data.MySqlClient.Driver.SendQuery(MySqlPacket p)
+   at MySql.Data.MySqlClient.Statement.ExecuteNext()
+   at MySql.Data.MySqlClient.PreparableStatement.Execute()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `rooms` SET `users_now` = '0' WHERE `id` = '2' LIMIT 1
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MySql.Data.MySqlClient.NativeDriver.ExecutePacket(MySqlPacket packetToExecute)
+   at MySql.Data.MySqlClient.NativeDriver.SendQuery(MySqlPacket queryPacket)
+   at MySql.Data.MySqlClient.Driver.SendQuery(MySqlPacket p)
+   at MySql.Data.MySqlClient.Statement.ExecuteNext()
+   at MySql.Data.MySqlClient.PreparableStatement.Execute()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `chatlogs` (user_id, room_id, message, timestamp) VALUES (@user, @room, @message, @time)
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `rooms` SET `users_now` = '1' WHERE `id` = '81' LIMIT 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `rooms` SET `users_now` = '3' WHERE `id` = '11' LIMIT 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `rooms` SET `users_now` = '0' WHERE `id` = '62' LIMIT 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `chatlogs` (user_id, room_id, message, timestamp) VALUES (@user, @room, @message, @time)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MySql.Data.MySqlClient.NativeDriver.ExecutePacket(MySqlPacket packetToExecute)
+   at MySql.Data.MySqlClient.NativeDriver.SendQuery(MySqlPacket queryPacket)
+   at MySql.Data.MySqlClient.Driver.SendQuery(MySqlPacket p)
+   at MySql.Data.MySqlClient.Statement.ExecuteNext()
+   at MySql.Data.MySqlClient.PreparableStatement.Execute()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+SELECT isNoob FROM users WHERE id = '9356' LIMIT 1
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MySql.Data.MySqlClient.NativeDriver.ExecutePacket(MySqlPacket packetToExecute)
+   at MySql.Data.MySqlClient.NativeDriver.SendQuery(MySqlPacket queryPacket)
+   at MySql.Data.MySqlClient.Driver.SendQuery(MySqlPacket p)
+   at MySql.Data.MySqlClient.Statement.ExecuteNext()
+   at MySql.Data.MySqlClient.PreparableStatement.Execute()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.getInteger() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 55
+
+
+Error in query: 
+SELECT g.id FROM `group_memberships` AS m RIGHT JOIN `groups` AS g ON m.group_id = g.id WHERE m.user_id = @user AND (m.type = '1' OR m.type = '2')
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MySql.Data.MySqlClient.NativeDriver.ExecutePacket(MySqlPacket packetToExecute)
+   at MySql.Data.MySqlClient.NativeDriver.SendQuery(MySqlPacket queryPacket)
+   at MySql.Data.MySqlClient.Driver.SendQuery(MySqlPacket p)
+   at MySql.Data.MySqlClient.Statement.ExecuteNext()
+   at MySql.Data.MySqlClient.PreparableStatement.Execute()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at Plus.Database.Adapter.QueryAdapter.getTable() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 121
+
+
+Error in query: 
+INSERT INTO `chatlogs` (user_id, room_id, message, timestamp) VALUES (@user, @room, @message, @time)
+System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `play_products_owned` SET `extradata` = '0' WHERE `play_products_owned`.`product_id` = '9' AND `play_products_owned`.`user_id` = 9361;
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnData(MySqlField field)
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnsData(MySqlField[] columns)
+   at MySql.Data.MySqlClient.Driver.GetColumns(Int32 count)
+   at MySql.Data.MySqlClient.ResultSet.LoadColumns(Int32 numCols)
+   at MySql.Data.MySqlClient.ResultSet..ctor(Driver d, Int32 statementId, Int32 numCols)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE play_stats SET     
+                                        level = @level,
+                                        curxp = @exp,                                         
+                                        curhealth = @curhealth,
+                                        maxhealth = @maxhealth,
+                                        armor = @armor,
+                                        hunger = @hunger,
+                                        hygiene = @hygiene,
+                                        strength = @strength,
+                                        strength_exp = @strength_exp,
+                                        bank = @bank,
+                                        last_coordinates = @last_coordinates,
+                                        is_dying = @is_dying,
+                                        dying_time_left = @dying_time_left,
+                                        is_dead = @is_dead,
+                                        dead_time_left = @dead_time_left,
+                                        is_jailed = @is_jailed,
+                                        jailed_time_left = @jailed_time_left,
+                                        is_wanted = @is_wanted,
+                                        wanted_level = @wanted_level,
+                                        wanted_time_left = @wanted_time_left,
+                                        is_cuffed = @is_cuffed,
+                                        cuffed_time_left = @cuffed_time_left,    
+                                        is_noob = @is_noob,
+                                        noob_time_left = @noob_time_left,
+                                        car_limit = @car_limit,
+                                        time_worked = @time_worked,
+                                        arrests = @arrests,
+                                        arrested = @arrested,
+                                        CamLvl = @CamLvl,
+                                        CamXP = @CamXP,
+                                        MecLvl = @MecLvl,
+                                        MecXP = @MecXP,
+                                        MinerLvl = @MinerLvl,
+                                        MinerXP = @MinerXP,
+                                        ArmLvl = @ArmLvl,
+                                        ArmXP = @ArmXP,
+                                        BasuLvl = @BasuLvl,
+                                        BasuXP = @BasuXP,
+                                        LadronLvl = @LadronLvl,
+                                        LadronXP = @LadronXP,
+                                        Corp = @Corp,
+                                        Gang = @Gang,
+                                        chn_disabled = @ChNDisabled,
+                                        chn_banned = @ChNBanned,
+                                        chn_banned_time_left = @ChNBannedTimeLeft,
+                                        send_home_time = @send_home_time,
+                                        punches = @punches,
+                                        kills = @kills,
+                                        hitkills = @hitkills,
+                                        gunkills = @gunkills,
+                                        copkills = @copkills,
+                                        deaths = @deaths,
+                                        copdeaths = @copdeaths,
+                                        evasions = @evasions,
+                                        cocaine_taken = @cocaine_taken,
+                                        medicines_taken = @medicines_taken,
+                                        weed_taken = @weed_taken,
+                                        guns_fab = @guns_fab,
+                                        total_shifts = @total_shifts,
+                                        money_earned = @money_earned,
+                                        pl_earned = @pl_earned,
+                                        drugs_taken = @drugs_taken,
+                                        tutorial_step = @tutorial_step,
+                                        is_sanc = @is_sanc,
+                                        sanc_time_left = @sanc_time_left,
+                                        sancs = @sancs,
+                                        passive_mode = @passive_mode,
+                                        changename_count = @changename_count,
+                                        is_news_reporter = @is_news_reporter
+                            
+                                        WHERE id = @userid;
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `rooms` SET `users_now` = '3' WHERE `id` = '47' LIMIT 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnData(MySqlField field)
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnsData(MySqlField[] columns)
+   at MySql.Data.MySqlClient.Driver.GetColumns(Int32 count)
+   at MySql.Data.MySqlClient.ResultSet.LoadColumns(Int32 numCols)
+   at MySql.Data.MySqlClient.ResultSet..ctor(Driver d, Int32 statementId, Int32 numCols)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+SELECT `id` FROM `users` WHERE  `username` =  'Megadude' LIMIT 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnData(MySqlField field)
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnsData(MySqlField[] columns)
+   at MySql.Data.MySqlClient.Driver.GetColumns(Int32 count)
+   at MySql.Data.MySqlClient.ResultSet.LoadColumns(Int32 numCols)
+   at MySql.Data.MySqlClient.ResultSet..ctor(Driver d, Int32 statementId, Int32 numCols)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.getString() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 97
+
+
+Error in query: 
+UPDATE play_stats SET     
+                                        level = @level,
+                                        curxp = @exp,                                         
+                                        curhealth = @curhealth,
+                                        maxhealth = @maxhealth,
+                                        armor = @armor,
+                                        hunger = @hunger,
+                                        hygiene = @hygiene,
+                                        strength = @strength,
+                                        strength_exp = @strength_exp,
+                                        bank = @bank,
+                                        last_coordinates = @last_coordinates,
+                                        is_dying = @is_dying,
+                                        dying_time_left = @dying_time_left,
+                                        is_dead = @is_dead,
+                                        dead_time_left = @dead_time_left,
+                                        is_jailed = @is_jailed,
+                                        jailed_time_left = @jailed_time_left,
+                                        is_wanted = @is_wanted,
+                                        wanted_level = @wanted_level,
+                                        wanted_time_left = @wanted_time_left,
+                                        is_cuffed = @is_cuffed,
+                                        cuffed_time_left = @cuffed_time_left,    
+                                        is_noob = @is_noob,
+                                        noob_time_left = @noob_time_left,
+                                        car_limit = @car_limit,
+                                        time_worked = @time_worked,
+                                        arrests = @arrests,
+                                        arrested = @arrested,
+                                        CamLvl = @CamLvl,
+                                        CamXP = @CamXP,
+                                        MecLvl = @MecLvl,
+                                        MecXP = @MecXP,
+                                        MinerLvl = @MinerLvl,
+                                        MinerXP = @MinerXP,
+                                        ArmLvl = @ArmLvl,
+                                        ArmXP = @ArmXP,
+                                        BasuLvl = @BasuLvl,
+                                        BasuXP = @BasuXP,
+                                        LadronLvl = @LadronLvl,
+                                        LadronXP = @LadronXP,
+                                        Corp = @Corp,
+                                        Gang = @Gang,
+                                        chn_disabled = @ChNDisabled,
+                                        chn_banned = @ChNBanned,
+                                        chn_banned_time_left = @ChNBannedTimeLeft,
+                                        send_home_time = @send_home_time,
+                                        punches = @punches,
+                                        kills = @kills,
+                                        hitkills = @hitkills,
+                                        gunkills = @gunkills,
+                                        copkills = @copkills,
+                                        deaths = @deaths,
+                                        copdeaths = @copdeaths,
+                                        evasions = @evasions,
+                                        cocaine_taken = @cocaine_taken,
+                                        medicines_taken = @medicines_taken,
+                                        weed_taken = @weed_taken,
+                                        guns_fab = @guns_fab,
+                                        total_shifts = @total_shifts,
+                                        money_earned = @money_earned,
+                                        pl_earned = @pl_earned,
+                                        drugs_taken = @drugs_taken,
+                                        tutorial_step = @tutorial_step,
+                                        is_sanc = @is_sanc,
+                                        sanc_time_left = @sanc_time_left,
+                                        sancs = @sancs,
+                                        passive_mode = @passive_mode,
+                                        changename_count = @changename_count,
+                                        is_news_reporter = @is_news_reporter
+                            
+                                        WHERE id = @userid;
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnData(MySqlField field)
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnsData(MySqlField[] columns)
+   at MySql.Data.MySqlClient.Driver.GetColumns(Int32 count)
+   at MySql.Data.MySqlClient.ResultSet.LoadColumns(Int32 numCols)
+   at MySql.Data.MySqlClient.ResultSet..ctor(Driver d, Int32 statementId, Int32 numCols)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `room_items_moodlight` (`id`, `enabled`, `current_preset`, `preset_one`, `preset_two`, `preset_three`) VALUES (@id, '0', 1, @preset, @preset, @preset);
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '935611' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO bots (user_id,name, ai_type) VALUES (9447,@0name, 'pet')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Field 'look' doesn't have a default value
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO bots_petdata (id,type,race,color,experience,energy,createstamp) VALUES (0, 15,@0race,@0color,0,100,UNIX_TIMESTAMP())
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '0' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO bots (user_id,name, ai_type) VALUES (9447,@0name, 'pet')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Field 'look' doesn't have a default value
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO bots_petdata (id,type,race,color,experience,energy,createstamp) VALUES (0, 15,@0race,@0color,0,100,UNIX_TIMESTAMP())
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '0' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `room_items_moodlight` (`id`, `enabled`, `current_preset`, `preset_one`, `preset_two`, `preset_three`) VALUES (@id, '0', 1, @preset, @preset, @preset);
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '994363' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO bots (user_id,name, ai_type) VALUES (9447,@0name, 'pet')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Field 'look' doesn't have a default value
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO bots_petdata (id,type,race,color,experience,energy,createstamp) VALUES (0, 15,@0race,@0color,0,100,UNIX_TIMESTAMP())
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '0' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `room_items_moodlight` (`id`, `enabled`, `current_preset`, `preset_one`, `preset_two`, `preset_three`) VALUES (@id, '0', 1, @preset, @preset, @preset);
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '1006328' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `room_items_moodlight` (`id`, `enabled`, `current_preset`, `preset_one`, `preset_two`, `preset_three`) VALUES (@id, '0', 1, @preset, @preset, @preset);
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '1027576' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `room_items_moodlight` (`id`, `enabled`, `current_preset`, `preset_one`, `preset_two`, `preset_three`) VALUES (@id, '0', 1, @preset, @preset, @preset);
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '1032680' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO `room_items_moodlight` (`id`, `enabled`, `current_preset`, `preset_one`, `preset_two`, `preset_three`) VALUES (@id, '0', 1, @preset, @preset, @preset);
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '1074219' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO moderation_tickets (score,type,status,sender_id,reported_id,moderator_id,message,room_id,room_name,timestamp) VALUES (1, '12', 'open', '14612', '-1', '0', @message, '2313', @name,'1679193866.11633')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Out of range value for column 'reported_id' at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO moderation_tickets (score,type,status,sender_id,reported_id,moderator_id,message,room_id,room_name,timestamp) VALUES (1, '25', 'open', '18244', '-1', '0', @message, '47', @name,'1680907297.98026')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Out of range value for column 'reported_id' at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO moderation_tickets (score,type,status,sender_id,reported_id,moderator_id,message,room_id,room_name,timestamp) VALUES (1, '25', 'open', '18456', '-1', '0', @message, '1', @name,'1683212395.80259')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Out of range value for column 'reported_id' at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO moderation_tickets (score,type,status,sender_id,reported_id,moderator_id,message,room_id,room_name,timestamp) VALUES (1, '1', 'open', '18650', '-1', '0', @message, '12', @name,'1685484162.95537')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Out of range value for column 'reported_id' at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+
+
+Error in query: 
+INSERT INTO moderation_tickets (score,type,status,sender_id,reported_id,moderator_id,message,room_id,room_name,timestamp) VALUES (1, '25', 'open', '18728', '-1', '0', @message, '43', @name,'1686788907.7247')
+MySql.Data.MySqlClient.MySqlException (0x80004005): Out of range value for column 'reported_id' at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at Plus.Database.Adapter.QueryAdapter.InsertQuery() in C:\Users\Administrator\Desktop\RDP EMU header change\Database\Adapter\QueryAdapter.cs:line 160
+

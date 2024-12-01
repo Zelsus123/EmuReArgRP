@@ -1,0 +1,54 @@
+
+Error in packet [216] BODY: [0][0]?: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Combat.Types.Gun.CanCombat(GameClient Client, GameClient TargetClient) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Combat\Types\Gun.cs:line 513
+   at Plus.HabboRoleplay.Combat.Types.Gun.Execute(GameClient Client, GameClient TargetClient, Boolean HitClosest) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Combat\Types\Gun.cs:line 23
+   at Plus.Communication.Packets.Incoming.Users.GetRelationshipsEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\Incoming\Users\GetRelationshipsEvent.cs:line 330
+   at Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\PacketManager.cs:line 158
+   at Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\GameClients\GameClient.cs:line 97
+
+
+Error in packet [3580] BODY: [0]:aceptar medicamentos[0][0][0][0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Chat.Commands.Users.Generic.Offers.AcceptCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\User\Generic\Offers\AcceptCommand.cs:line 684
+   at Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 141
+   at Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 74
+   at Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\PacketManager.cs:line 158
+   at Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\GameClients\GameClient.cs:line 97
+
+
+Error in packet [3580] BODY: [0]:aceptar medicamentos[0][0][0][0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Chat.Commands.Users.Generic.Offers.AcceptCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\User\Generic\Offers\AcceptCommand.cs:line 684
+   at Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 141
+   at Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 74
+   at Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\PacketManager.cs:line 158
+   at Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\GameClients\GameClient.cs:line 97
+
+
+Error in packet [3580] BODY: [0]:aceptar medicamentos[0][0][0][0][0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Chat.Commands.Users.Generic.Offers.AcceptCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\User\Generic\Offers\AcceptCommand.cs:line 684
+   at Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 141
+   at Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 74
+   at Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\PacketManager.cs:line 158
+   at Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\GameClients\GameClient.cs:line 97
+
+
+Error in packet [3580] BODY: [0]:aceptar medicamentos[0][0][0][0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Chat.Commands.Users.Generic.Offers.AcceptCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\User\Generic\Offers\AcceptCommand.cs:line 684
+   at Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 141
+   at Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 74
+   at Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\PacketManager.cs:line 158
+   at Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\GameClients\GameClient.cs:line 97
+
+
+Error in packet [3580] BODY: [0]:aceptar medicamentos[0][0][0][0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Chat.Commands.Users.Generic.Offers.AcceptCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\User\Generic\Offers\AcceptCommand.cs:line 684
+   at Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 141
+   at Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 74
+   at Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\Communication\Packets\PacketManager.cs:line 158
+   at Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\GameClients\GameClient.cs:line 97
+

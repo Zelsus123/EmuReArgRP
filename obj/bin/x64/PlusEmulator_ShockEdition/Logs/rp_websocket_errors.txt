@@ -1,0 +1,7 @@
+
+
+Referencia a objeto no establecida como instancia de un objeto.: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) en D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\HabboRoleplay\Web\WebEventManager.cs:l?nea 601
+   en Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) en D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\HabboRoleplay\Web\WebEventManager.cs:l?nea 254
+
+

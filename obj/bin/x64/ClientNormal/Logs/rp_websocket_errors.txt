@@ -1,0 +1,77 @@
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 601
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 254
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 601
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 254
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 601
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 254
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 601
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 254
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 601
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 254
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 601
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 254
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.Outgoing.Misc.GangsWebEvent.Execute(GameClient Client, String Data, IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\Outgoing\Gangs\GangsWebEvent.cs:line 914
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketMessage(IWebSocketConnection InteractingSocket, String SentData) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 209
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.Outgoing.Misc.GangsWebEvent.Execute(GameClient Client, String Data, IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\Outgoing\Gangs\GangsWebEvent.cs:line 914
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketMessage(IWebSocketConnection InteractingSocket, String SentData) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 209
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.Outgoing.Misc.GangsWebEvent.Execute(GameClient Client, String Data, IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\Outgoing\Gangs\GangsWebEvent.cs:line 914
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketMessage(IWebSocketConnection InteractingSocket, String SentData) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 209
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 601
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 254
+
+
+
+
+Object reference not set to an instance of an object.: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.GetSocketsClient(IWebSocketConnection Socket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 601
+   at Plus.HabboHotel.Roleplay.Web.WebEventManager.OnSocketAdd(IWebSocketConnection ConnectingSocket) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Web\WebEventManager.cs:line 254
+
+

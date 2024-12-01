@@ -1,0 +1,7 @@
+.vs/
+~$*
+# Ignorar archivos grandes específicos
+obj/packages/Grpc.Core.2.30.0/native/ios/universal/libgrpc.a
+bin/x64/PlusEmulator_ShockEdition/Logs/criticalexceptions.txt
+obj/packages/Grpc.Core.2.30.0/Grpc.Core.2.30.0.nupkg
+packages/Grpc.Core.2.30.0/Grpc.Core.2.30.0.nupkg

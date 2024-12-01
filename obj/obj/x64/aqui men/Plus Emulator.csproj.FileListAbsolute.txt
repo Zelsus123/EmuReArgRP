@@ -1,0 +1,52 @@
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\Plus Emulator.exe.config
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\Plus Emulator.exe
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\Plus Emulator.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\AStar.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\Enyim.Caching.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\HabboEncryption.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\log4net.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\MySql.Data.dll
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\Enyim.Caching.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\Enyim.Caching.xml
+C:\Users\Administrador\Desktop\Uncoded - Mith\bin\x64\aqui men\log4net.xml
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x64\aqui men\Plus Emulator.exe
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x64\aqui men\Plus Emulator.pdb
+C:\Users\Administrador\Desktop\Uncoded - Mith\obj\x64\aqui men\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\Plus Emulator.exe.config
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\obj\x64\aqui men\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\obj\x64\aqui men\Plus Emulator.pdb
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\Plus Emulator.pdb
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\AStar.dll
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\Enyim.Caching.dll
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\HabboEncryption.dll
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\log4net.dll
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\MySql.Data.dll
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\Enyim.Caching.pdb
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\Enyim.Caching.xml
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\bin\x64\aqui men\log4net.xml
+C:\Users\Torre_000\Documents\PlusEmu\Uncoded - Mith\obj\x64\aqui men\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\Plus Emulator.exe.config
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\obj\x64\aqui men\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\obj\x64\aqui men\Plus Emulator.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\Plus Emulator.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\AStar.dll
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\Enyim.Caching.dll
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\HabboEncryption.dll
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\log4net.dll
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\MySql.Data.dll
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\Enyim.Caching.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\Enyim.Caching.xml
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\bin\x64\aqui men\log4net.xml
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU habbi Edition\obj\x64\aqui men\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\aqui men\Plus Emulator.exe.config
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x64\aqui men\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x64\aqui men\Plus Emulator.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\aqui men\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\aqui men\Plus Emulator.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\aqui men\Enyim.Caching.dll
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\aqui men\Enyim.Caching.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\aqui men\Enyim.Caching.xml
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\aqui men\log4net.xml
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x64\aqui men\Plus Emulator.csprojResolveAssemblyReference.cache

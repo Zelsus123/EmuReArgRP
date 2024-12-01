@@ -1,0 +1,93 @@
+Estos son los comandos que tienes disponibles:
+:spull %username% - Pull another user to you, with no limits!
+:about  - Displays generic information that everybody loves to see.
+:pickall  - Picks up all of the furniture from your room.
+:ejectall  - Removes all of the items from the room.
+:lay  - Allows you to lay down in the room, without needing a bed.
+:sit  - Allows you to sit down in your current spot.
+:color  - off/red/orange/yellow/green/blue/purple/pink
+:stand  - Allows you to stand up if not stood already.
+:besar %target% - %USUARIO% - Besa al Usuario <3
+:mutepets  - Ignore bot chat or enable it again.
+:mutebots  - Ignore bot chat or enable it again.
+:mimic %username% - Liking someone elses swag? Copy it!
+:dance %DanceId% - Too lazy to dance the proper way? Do it like this!
+:push %target% - Push another user.
+:pull %target% - Pull another user towards you.
+:enable %EffectId% - Gives you the ability to set an effect on your user!
+:follow %username% - Want to visit a specific user? Use this command!
+:faceless  - Allows you to go faceless!
+:moonwalk  - Wear the shoes of Michael Jackson.
+:unload %id% - Unload the current room.
+:fixroom  - Is the game map of your room broken? Fix it with this command!
+:empty  - Is your inventory full? You can remove all items by typing this command.
+:setmax %value% - Set the visitor limit to the room.
+:setspeed %value% - Set the speed of the rollers in the current room.
+:disablediagonal  - Want to disable diagonal walking in your room? Type this command!
+:flagme  - Gives you the option to change your username.
+:stats  - View your current statistics.
+:kickpets  - Kick all of the pets from the room.
+:kickbots  - Kick all of the bots from the room.
+:room push/pull/enables/respect - Gives you the ability to enable or disable basic room commands.
+:dnd  - Allows you to chose the option to enable or disable console messages.
+:disablegifts  - Allows you to disable the ability to receive gifts or to enable the ability to receive gifts.
+:convertcredits  - Convert your exchangeable furniture into actual credits.
+:disablemimic  - Allows you to disable the ability to be mimiced or to enable the ability to be mimiced.
+:pet  - Allows you to transform into a pet..
+:spush %target% - Superpush another user. (Pushes them 3 squares away)
+:superpush %target% - Superpush another user. (Pushes them 3 squares away)
+:eha %message% - Envia una alerta para su evento!
+:eventha %message% - Envia una alerta para su evento!
+:event %message% - Envia una alerta para su evento!
+:publicidad %Message% - Send a hotel alert for your event!
+:da2 %Message% - Send a hotel alert for your event!
+:ban %username% %length% %reason%  - Remove a toxic player from the hotel for a fixed amount of time.
+:mip %username% - Machine ban, IP ban and account ban another user.
+:ipban %username% - IP and account ban another user.
+:ui %username% - View another users profile information.
+:userinfo %username% - View another users profile information.
+:sa %message% - Sends a message typed by you to the current online staff members.
+:roomunmute  - Unmute the room.
+:roommute %message% - Mute the room with a reason.
+:roombadge %badge% - Give a badge to the entire room!
+:roomalert %message% - Send a message to the users in this room.
+:roomkick %message% - Kick the room and provide a message to the users.
+:mute %username% %time% - Mute another user for a certain amount of time.
+:smute %username% %time% - Mute another user for a certain amount of time.
+:unmute %username% - Unmute a currently muted user.
+:massbadge %badge% - Give a badge to the entire hotel.
+:massgive %type% %amount% - 
+:kick %username% %reason% - Kick a user from a room and send them a reason.
+:skick %username% %reason% - Kick a user from a room and send them a reason.
+:ha %message% - Send a message to the entire hotel.
+:hotelalert %message% - Send a message to the entire hotel.
+:hal %message% - Send a message to the entire hotel, with a link.
+:give %username% %type% %amount% - 
+:givebadge %username% %badge% - Give a badge to another user.
+:takebadge %username% %badge% - Quita una placa de un usuario.
+:dc %username% - %USUARIO% - Desconectas al usuario.
+:disconnect %username% - %USUARIO% - Desconectas al usuario.
+:alert %username% %Messages% - Alert a user with a message of your choice.
+:tradeban %target% %length% - Trade ban another user.
+:teleport  - The ability to teleport anywhere within the room.
+:summon %username% - Bring another user to your current room.
+:override  - Gives you the ability to walk over anything.
+:massenable %EffectId% - Give every user in the room a specific enable ID.
+:massdance %DanceId% - Force everyone in the room to dance to a dance of your choice.
+:freeze %username% - Prevent another user from walking.
+:unfreeze %username% - Allow another user to walk again.
+:fastwalk  - Gives you the ability to walk very fast.
+:superfastwalk  - Gives you the ability to walk very very fast.
+:coords  - Used to get your current position within the room.
+:alleyesonme  - Want some attention? Make everyone face you!
+:allaroundme  - Need some attention? Pull all of the users to you.
+:forcesit %username% - Force another to user sit.
+:ignorewhispers  - Allows you to ignore all of the whispers in the room, except from your own.
+:forced_effects  - Gives you the ability to ignore or allow forced effects.
+:makesay %username% %message% - Forces the specified user to say the specified message.
+:flaguser %username% - Forces the specified user to change their name.
+:bubble %id% - Use a custom bubble to chat with.
+:update %variable% - Reload a specific part of the hotel.
+:deletegroup  - Delete a group from the database and cache.
+:handitem %ItemId% - Allows you to carry a hand item
+:goto %room_id% - 

@@ -1,0 +1,3 @@
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\Debug\Plus Emulator.exe.config
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x86\Debug\Plus Emulator.pdb

@@ -1,0 +1,1008 @@
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Affected Room - ID: 8 - System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at Plus.HabboHotel.Rooms.RoomUser.AddStatus(String Key, String Value) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUser.cs:line 706
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1266
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 28 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Affected Room - ID: 39 - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPathReversed(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 102
+   at Plus.HabboHotel.Pathfinding.PathFinder.FindPath(RoomUser User, Boolean Diag, Gamemap Map, Vector2D Start, Vector2D End) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\PathFinding\PathFinder.cs:line 32
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 1096
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 280
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.get_GetWall() in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomItemHandling.cs:line 1278
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\DayNightManager.cs:line 178
+

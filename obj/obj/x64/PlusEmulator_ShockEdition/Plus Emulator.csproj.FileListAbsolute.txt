@@ -1,0 +1,593 @@
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Torre_000\Desktop\PlusEmulator-ShockEdition\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Torre_000\Desktop\group_forum_DEV\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\Project Shock\PlusEMU Shock Edition\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\Project Shock\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Antonio\Downloads\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+D:\RESP LAP TEMPO\Descargas\Project RDP\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\RDP PACK\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP\RDP Emulator\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V2\RDP Emulator\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Program Files (x86)\Windows Assemblies\Oracle\Java\javapath_target_58312421\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\GTH Pack 24-05-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\GTH Pack 16-07-19\EMUS\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Program Files\Java\jre1.8.0_221\lib\ext\jar_curl\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator by Jeihden\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\log4net.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP V3 (LB)\EMU\Open\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\Project RDP - Hosteos\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x86.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x64.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.so
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.so
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.dylib
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.dylib
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Buffers.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Memory.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Buffers.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Memory.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x86.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x64.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.so
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.so
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.dylib
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.dylib
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Buffers.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Memory.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Google.Protobuf.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Zstandard.Net.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\BouncyCastle.Crypto.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Ubiety.Dns.Core.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Renci.SshNet.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Compression.LZ4.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Hash.xxHash.dll
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Buffers.xml
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Memory.xml
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\admin\Downloads\RDP Emulator V3 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Google.Protobuf.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Zstandard.Net.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\BouncyCastle.Crypto.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Ubiety.Dns.Core.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Renci.SshNet.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Compression.LZ4.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V3 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Hash.xxHash.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x86.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x64.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.so
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.so
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.dylib
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.dylib
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Buffers.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Memory.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Google.Protobuf.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Zstandard.Net.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\BouncyCastle.Crypto.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Ubiety.Dns.Core.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Renci.SshNet.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Compression.LZ4.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\K4os.Hash.xxHash.dll
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Buffers.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Memory.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x86.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x64.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.so
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.so
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.dylib
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.dylib
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Buffers.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Memory.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Buffers.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Memory.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x86.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x64.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.so
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.so
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.dylib
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.dylib
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\System.Buffers.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\System.Memory.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\System.Buffers.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\System.Memory.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Antonio\Downloads\RDP Emulator V5 by Jeihden & Zedd OPEN no API\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x86.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x64.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.so
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.so
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.dylib
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.dylib
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\System.Buffers.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\System.Memory.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\System.Buffers.xml
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\System.Memory.xml
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\RDP EMU\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\RDP EMU\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RDP EMU\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RDP EMU\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RDP EMU\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Administrator\Desktop\RDP EMU\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Administrator\Desktop\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x86.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x64.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.so
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.so
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.dylib
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.dylib
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Buffers.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Memory.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Buffers.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Memory.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Buffers.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Codecs.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Common.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Handlers.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Transport.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.AppContext.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Console.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Buffers.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Codecs.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Common.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Handlers.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Transport.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Threading.Tasks.Extensions.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x86.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\grpc_csharp_ext.x64.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.so
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.so
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x86.dylib
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\libgrpc_csharp_ext.x64.dylib
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Buffers.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Codecs.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Common.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Handlers.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Transport.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Fleck.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.Logging.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Win32.Primitives.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\MySql.Data.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.AppContext.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Buffers.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Collections.Immutable.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Console.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Diagnostics.DiagnosticSource.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Globalization.Calendars.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.IO.Compression.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.IO.Compression.ZipFile.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.IO.FileSystem.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.IO.FileSystem.Primitives.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Memory.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Net.Sockets.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Security.Cryptography.Algorithms.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Security.Cryptography.Encoding.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Security.Cryptography.Primitives.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Security.Cryptography.X509Certificates.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Threading.Tasks.Extensions.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Xml.ReaderWriter.dll
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Buffers.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Codecs.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Common.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Handlers.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\DotNetty.Transport.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Enyim.Caching.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.Logging.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\MySql.Data.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\Newtonsoft.Json.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Buffers.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Collections.Immutable.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Diagnostics.DiagnosticSource.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Memory.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Net.Http.Formatting.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Runtime.CompilerServices.Unsafe.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\bin\x64\PlusEmulator_ShockEdition\System.Threading.Tasks.Extensions.xml
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.AssemblyReference.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CoreCompileInputs.cache
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.csproj.CopyComplete
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.exe
+D:\Respaldo\Proyectos\Proyectos RS\RP\HVip HTML5\RDP EMU header change\obj\x64\PlusEmulator_ShockEdition\Plus Emulator.pdb

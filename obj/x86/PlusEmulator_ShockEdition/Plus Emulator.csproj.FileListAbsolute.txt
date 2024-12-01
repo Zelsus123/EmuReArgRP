@@ -1,0 +1,10 @@
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x86\PlusEmulator_ShockEdition\Plus Emulator.exe.config
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x86\PlusEmulator_ShockEdition\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x86\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x86\PlusEmulator_ShockEdition\Plus Emulator.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x86\PlusEmulator_ShockEdition\Enyim.Caching.dll
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x86\PlusEmulator_ShockEdition\Enyim.Caching.pdb
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x86\PlusEmulator_ShockEdition\Enyim.Caching.xml
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\bin\x86\PlusEmulator_ShockEdition\log4net.xml
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x86\PlusEmulator_ShockEdition\Plus Emulator.exe
+C:\Users\Torre_000\Documents\PlusEmu\PlusEMU Shock Edition\obj\x86\PlusEmulator_ShockEdition\Plus Emulator.pdb

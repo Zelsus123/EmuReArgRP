@@ -1,0 +1,43 @@
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.RoleplayManager.SendUser(GameClient Client, Int32 RID, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\RoleplayManager.cs:line 375
+   at Plus.HabboHotel.Rooms.RoomUserManager.UpdateUserStatus(RoomUser User, Boolean cyclegameitems) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 2116
+
+
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Collections.Generic.List`1.Add(T item)
+   at Plus.HabboHotel.Rooms.Gamemap.AddCoordinatedItem(Item item, Point coord) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 534
+   at Plus.HabboHotel.Rooms.Gamemap.AddItemToMap(Item Item, Boolean handleGameItem, Boolean NewItem) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 741
+   at Plus.HabboHotel.Rooms.Gamemap.AddItemToMap(Item Item, Boolean NewItem) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 865
+   at Plus.HabboHotel.Rooms.Gamemap.GenerateMaps(Boolean checkLines) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 410
+   at Plus.HabboRoleplay.Misc.RoleplayManager.SendUser(GameClient Client, Int32 RID, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\RoleplayManager.cs:line 550
+   at Plus.HabboHotel.Rooms.RoomUserManager.UpdateUserStatus(RoomUser User, Boolean cyclegameitems) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 2100
+
+
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Collections.Generic.List`1.Contains(T item)
+   at Plus.HabboHotel.Rooms.Gamemap.AddCoordinatedItem(Item item, Point coord) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 532
+   at Plus.HabboHotel.Rooms.Gamemap.AddItemToMap(Item Item, Boolean handleGameItem, Boolean NewItem) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 812
+   at Plus.HabboHotel.Rooms.Gamemap.AddItemToMap(Item Item, Boolean NewItem) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 865
+   at Plus.HabboHotel.Rooms.Gamemap.GenerateMaps(Boolean checkLines) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 410
+   at Plus.HabboRoleplay.Misc.RoleplayManager.SendUser(GameClient Client, Int32 RID, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\RoleplayManager.cs:line 550
+   at Plus.HabboHotel.Rooms.RoomUserManager.UpdateUserStatus(RoomUser User, Boolean cyclegameitems) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 2100
+
+
+
+
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Collections.Generic.List`1.Add(T item)
+   at Plus.HabboHotel.Rooms.Gamemap.AddCoordinatedItem(Item item, Point coord) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 534
+   at Plus.HabboHotel.Rooms.Gamemap.AddItemToMap(Item Item, Boolean handleGameItem, Boolean NewItem) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 812
+   at Plus.HabboHotel.Rooms.Gamemap.AddItemToMap(Item Item, Boolean NewItem) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 865
+   at Plus.HabboHotel.Rooms.Gamemap.GenerateMaps(Boolean checkLines) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\GameMap.cs:line 410
+   at Plus.HabboRoleplay.Misc.RoleplayManager.SendUser(GameClient Client, Int32 RID, String Message) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboRoleplay\Misc\RoleplayManager.cs:line 424
+   at Plus.HabboHotel.Rooms.RoomUserManager.UpdateUserStatus(RoomUser User, Boolean cyclegameitems) in C:\Users\Jeihden\Downloads\RDP Emulator V5 by Jeihden & Zedd\HabboHotel\Rooms\RoomUserManager.cs:line 2078
+
+
